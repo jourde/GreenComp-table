@@ -7,10 +7,10 @@ N.B.: You can access the [GreenComp in a Markdown format here](https://github.co
 
 ## French
 - [Version française de la table (G Slides)](https://docs.google.com/presentation/d/1FnzkbXzbGbdo8nFgI_YuloWtE1xrs2DyC1loGKBVsAo/edit?usp=sharing). Ce fichier peut être téléchargé et modifié.
-- [Version interactive (H5P)](https://drive.google.com/drive/folders/1-JHcBKx-VXj4x9Am4RUry2GaJ3Qabk4G?usp=sharing). Ce fichier peut être téléchargé et modifié.
+- [Version interactive (H5P)](https://drive.google.com/drive/folders/1-JHcBKx-VXj4x9Am4RUry2GaJ3Qabk4G?usp=sharing). Ce fichier peut être téléchargé et modifié, notamment avec l'[application Lumi](https://lumi.education/fr/).
 - [Version interactive (Genially)](https://view.genially.com/63711b2f43923e0018e503d1/interactive-content-greencomp-fr). Réutilisable comme modèle.
 
 ## English
 - [English version of the table (G Slides)](https://docs.google.com/presentation/d/1FnzkbXzbGbdo8nFgI_YuloWtE1xrs2DyC1loGKBVsAo/edit?usp=sharing). This file can be downloaded and edited.
-- [Interactive version (H5P)](https://drive.google.com/drive/folders/1-JHcBKx-VXj4x9Am4RUry2GaJ3Qabk4G?usp=sharing). This file can be downloaded and edited.
+- [Interactive version (H5P)](https://drive.google.com/drive/folders/1-JHcBKx-VXj4x9Am4RUry2GaJ3Qabk4G?usp=sharing). This file can be downloaded and edited. The [Lumi app](https://lumi.education/en/) is recommended.
 - ...
